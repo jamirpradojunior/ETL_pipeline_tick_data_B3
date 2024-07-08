@@ -4,5 +4,5 @@ Mantive o formato .ipynb (notebook) para facilitar o acompanhamento da rotina po
 
 Ele está dividido em três etapas:
 1) Extração de múltiplos dados via webscraping;
-2)  2) Transformação dos dados;
+2) Transformação dos dados;
 3) Carregar os dados já estrurados para um database;
